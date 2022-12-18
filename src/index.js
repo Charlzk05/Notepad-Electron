@@ -68,7 +68,7 @@ const createWindow = () => {
                     }
                 },
                 {
-                    label: "Save as...",
+                    label: "Save As...",
                     accelerator: "CommandOrControl+Shift+S",
                     click: async () => {
                         await win.webContents.send("saveAsCall");

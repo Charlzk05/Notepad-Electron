@@ -1,10 +1,9 @@
 function python(range) {
-        return [
-            {
+    return [
+        {
                 label: "",
                 kind: monaco.languages.CompletionItemKind.Keyword,
                 insertText: ""
         },
     ];
 }
-    

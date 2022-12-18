@@ -1,10 +1,9 @@
-function flow9(range) {
-        return [
-            {
+function python(range) {
+    return [
+        {
                 label: "",
                 kind: monaco.languages.CompletionItemKind.Keyword,
                 insertText: ""
         },
     ];
 }
-    
