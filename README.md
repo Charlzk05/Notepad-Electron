@@ -1,5 +1,5 @@
 ## Notepad Electron
-A simple text editor with monaco editor using Electron JS
+A simple text editor with monaco using Electron JS
 - [Downloads](https://github.com/Charlzk05/Notepad-Electron/releases)
 - [Development](https://github.com/Charlzk05/Notepad-Electron#Development)
 
