@@ -3,6 +3,8 @@ A simple text editor with monaco editor using Electron JS
 - [Downloads](https://github.com/Charlzk05/Notepad-Electron/releases)
 - [Development](https://github.com/Charlzk05/Notepad-Electron#Development)
 
+![image](https://user-images.githubusercontent.com/104715127/208283087-2b52d1d6-0d3e-4442-b5cc-b27bb681d797.png)
+
 ### Keybinds
 - File Menu
   - New: ``Ctrl+N``
