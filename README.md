@@ -1,5 +1,7 @@
 ## Notepad Electron
 A simple text editor with monaco editor using Electron JS
+- [Downloads](https://github.com/Charlzk05/Notepad-Electron/releases)
+- [Development](https://github.com/Charlzk05/Notepad-Electron#Development)
 
 ### Keybinds
 - File Menu
@@ -100,3 +102,14 @@ A simple text editor with monaco editor using Electron JS
   - vb
   - xml
   - yaml
+
+# Development  
+  ### Setting up the source code
+  1. ``git clone https://github.com/Charlzk05/Notepad-Electron.git``
+  2. Navigate to the folder and install the packages required
+    - ``npm i electron``
+    - ``npx electron-forge import``
+    
+  ### Run and make
+  1. ``npm run start``
+  2. ``npm run make``
