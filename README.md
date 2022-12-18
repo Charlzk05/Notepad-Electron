@@ -5,6 +5,8 @@ A simple text editor with monaco editor using Electron JS
 
 ![image](https://user-images.githubusercontent.com/104715127/208283087-2b52d1d6-0d3e-4442-b5cc-b27bb681d797.png)
 
+Made in less than a day 💀
+
 ### Keybinds
 - File Menu
   - New: ``Ctrl+N``
